@@ -11,7 +11,7 @@ head(regions)
 
 # Example of help file
 ?PanelEstimation
-PanelEstimation(2,4)
+
 
 # tests
 devtools::test()
