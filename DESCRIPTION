@@ -6,6 +6,7 @@ Author: Division for methods
 Maintainer: Susie Jentoft <Susie.Jentoft@ssb.no>
 Description: This is a meta-package with a collection of function useful 
     for official statistics production (currently a beta version)
+Imports: klassR, CalibrateSSB
 License: Apache
 Encoding: UTF-8
 LazyData: true
