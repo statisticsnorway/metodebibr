@@ -7,7 +7,7 @@
 ProtectTableData(data, ...)
 }
 \arguments{
-\item{data}{The gross sample data frame}
+\item{data}{data frame}
 
 \item{...}{Further arguments to ProtectTable}
 }

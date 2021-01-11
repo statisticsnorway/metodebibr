@@ -8,7 +8,7 @@ easySdcTable::EasyData
 #' 
 #' A wrapper of the function  \code{\link{ProtectTable}} in package easySdcTable 
 #' 
-#' @param data The gross sample data frame
+#' @param data data frame
 #' @param ... Further arguments to ProtectTable
 #' @return Data set output from ProtectTable
 #' 
